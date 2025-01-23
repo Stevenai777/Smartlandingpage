@@ -1,5 +1,5 @@
 # Smartlandingpage
-Effortlessly create a professional landing page in just minutes with this template, powered by Cursor IDE.
+Effortlessly create a professional landing page in just minutes with this template.
 
 In today’s digital landscape, landing pages have become an indispensable tool for businesses and individuals alike. They serve as the gateway to capturing leads, showcasing products, and converting visitors into customers. As we transition from traditional software to AI-powered solutions, the need for intuitive, high-performance, and easily customizable landing pages has never been greater. AI technologies not only streamline the creation process but also enable data-driven insights to optimize user engagement and conversion rates.
 
